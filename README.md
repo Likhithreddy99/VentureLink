@@ -19,7 +19,7 @@ VentureLink is built using modern, scalable web technologies with a strict focus
 ### Tech Stack
 * **Database:** MongoDB Atlas via Mongoose ODM.
 * **Backend:** Node.js & Express.js REST API.
-* **Frontend:** React (scaffolded with Vite), utilizing modern React Hooks.
+* **Frontend:** React , utilizing modern React Hooks.
 * **State Management:** Zustand for lightweight, global client-side state.
 * **Real-Time Communication:** Socket.io for duplex real-time War Room chat.
 * **Styling:** Tailwind CSS v4 configured for a premium, minimal dark-mode aesthetic.
